@@ -1,2 +1,1 @@
-# sample-containers-project
-Sample Containers Project
+# Sample Containers Project
